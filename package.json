@@ -1,0 +1,17 @@
+{
+  "name": "election-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive Election Guide and Mock Voting Day Simulator",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}
